@@ -51,5 +51,5 @@ $animali = [
 				<?php } ?>
 			</ul>
 		</li>
-	<?php } ?> 
+	<?php } ?>
 </ul>
